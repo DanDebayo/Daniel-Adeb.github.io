@@ -1,55 +1,77 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
+  "Name": "Olasubomi Adebayo",
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hello there dear viewer, I am Daniel a dedicated Computer Science undergraduate from Seattle Pacific University, with a fervent passion for software engineering, game development and graphics programming. As an aspiring graphics programmer, I'm committed to honing my skills and knowledge in this specialized field."
+
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
+  "EMail": "olasubomidadebayo@gmail.com",
+  "Phone": "(206) 778-4728",
+  "Portfolio": "https://www.github.com/Daniel-Adeb.github.io",
+  "LinkedIn": "http://www.linkedin.com/in/olasubomi-Adebayo",
+  "GitHub": "https://github.com/DanDebayo"
 },
-"Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
-  "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
-},
-"Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+  "Experience": {
+    "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+    "Education": {
+      "School": "Seattle Pacific University",
+      "Major": "Computer Science",
+      "Graduation": "June 2024",
+      "EducationText": "I am currently pursuing a Bachelor of Arts in Computer Science at Seattle Pacific University. I have completed coursework in Data Structures and algorithms, Systems Design, Full-Stack Web Programming, Computer Architecture, Intro to Cybersecurity, Relational database concepts, and Algorithm Design. I am passionate about using technology to solve real-world problems and am excited to continue learning and growing as a software developer."
+    },
+    "IT Lead Technician": {
+      "Employer": "Seattle Pacific University",
+      "Duration": "Nov 2023 - Present",
+      "Role": "IT Lead Technician",  
+      "ExperienceText": "Overseeing the work of other technicians and support staff, scheduling daily tasks, supervising work of technicians, and participating in daily technology tasks. Maintaining documentation for IT systems, procedures, and configurations."
+    },
+    "IT Technician": {
+      "Employer": "Seattle Pacific University",
+      "Duration": "Nov 2022 - Nov 2023",
+      "Role": "IT Technician",
+      "ExperienceText": "Providing technical support to students, faculty, and staff, troubleshooting hardware and software issues, and maintaining and repairing computer systems and peripherals. Assisting with the installation and configuration of software and hardware."
+    },
+    "Intern": {
+      "Employer": "Seattle Pacific University",
+      "Duration": "Nov 2023 - Present",
+      "Role": "Software development Intern",
+      "ExperienceText": "Assisting with the development and research of Ticket automations, creating and updating documentation for software systems, and participating in team meetings and research review.    "
+    },    
+    "Skills": [
+      "Programming Languages: C++, JavaScript, Node, CSS, HTML, C#, Python, Rust, CUDA",
+      "Technical Skills: OpenGL, Unity, Unreal Engine, Git, GitHub, SFML",
+      "Tools: Visual Studio Code, Visual Studio, Docker, Azure, MySQL, Node.js, Jira, Linux, Windows"
+    ],
+    "SkillsText": "I have experience with a variety of programming languages, technical skills, and tools. I am proficient in C++. I have used these skills to develop a range of projects. I am also experienced in using technical skills such as OpenGL, Unity, Unreal Engine, Git, GitHub, and SFML. Additionally, I am familiar with tools such as Visual Studio Code, Visual Studio, Docker, Azure, MySQL, Node.js, and Jira.",
+    "Resume": "DanielAdebayoResume.pdf"
   },
-  "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
-  },
-  "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
+  "SPU Grad Pro": {
+    "Project": "Senior Project Unity/ C#",
+    "Desc": "Created a game in Unity as a group final project to simulate the CS college experience by teaching Data structure concepts for easier understanding for new students. Created various tools for the designer to make it easier for them as well as optimizing the game to be capable of multiple devices.",
+    "GitHubRepo": "https://github.com/kimanjea/SPU-GradPro",
     "MainImage": "P3Main.png",
     "DetailImages": []
   },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
+  "Snake Game": {
+    "Project": "Snake Game (SFML)",
+    "Desc": "Created a dynamic Snake game using SFML library, gaining insight into game development without relying on pre-built engines. Developed skills in graphical user interface (GUI) programming and game physics, honing expertise in interactive software design.",
+    "GitHubRepo": "https://github.com/DanDebayo/Snake-game",
+    "MainImage": "P3Main.png",
+    "DetailImages": []
+  },
+  "Battleships Terminal Game": {
+    "Project": "Battleships Terminal Game (C++)",
+    "Desc": "Implemented a text-based Battleships game in C++ to solidify understanding of object-oriented programming concepts, refining class. Strengthened problem-solving abilities by tackling complex game logic and user interactions, enhancing overall programming proficiency.",
+    "GitHubRepo": "https://github.com/DanDebayo/Battleships",
+    "MainImage": "",
+    "DetailImages": []
+  },
+  "Syntax and lexical analyser": {
+    "Project": "Syntax and lexical analyser(Rust)",
+    "Desc": "A project to build a syntax and lexical analyzer in Rust, with the goal of understanding the internals of compiler design and improving my skills in Rust programming. Implemented a lexer to tokenize input source code, developed a parser to build an abstract syntax tree (AST) from the token stream, and designed and implemented a type checking algorithm to ensure type safety.",
     "GitHubRepo": "",
     "MainImage": "",
     "DetailImages": []
